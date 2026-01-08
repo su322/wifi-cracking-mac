@@ -1,7 +1,5 @@
 **DISCLAIMER: This software/tutorial is for educational purposes only. It should not be used for illegal activity. The author is not responsible for its use. Don't be a dick.**
 
-> No Chinese version tutorial provided
-
 ## Environment
 MacBook Air M4\
 macOS Sequoia 15.7
